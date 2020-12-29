@@ -5,3 +5,5 @@ Second Change
 Third Change
 
 4th Change
+
+Added First Feature using GitKraken.
