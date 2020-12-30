@@ -7,3 +7,5 @@ Third Change
 4th Change
 
 Added First Feature using GitKraken.
+
+FeatureTwo was added from Git Bash.
